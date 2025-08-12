@@ -1,5 +1,6 @@
 <h2 align="center">Hello, world 👋</h2>
-<p>My name is Archit Anirudhan, a passionate web developer eager to build real word application. 👨‍💻</p>
+<p align="center">My name is Archit Anirudhan, a passionate web developer eager to build real word application. 👨‍💻</p>
+
 <hr/>
 
 <h2 align="center">Languages-Frameworks-Tools</h2>
