@@ -1,8 +1,8 @@
-<h2 align="center">Archit Anirudhan</h2>
-
+<h2 align="center">Hello, world 👋</h2>
+<p>My name is Archit Anirudhan, a passionate web developer eager to build real word application. 👨‍💻</p>
 <hr/>
 
-<h2 align="center> Languages-Frameworks-Tools </h2>
+<h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
