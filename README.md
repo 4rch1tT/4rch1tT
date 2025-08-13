@@ -1,4 +1,4 @@
-<h2 align="center">Hello, world 👋</h2>
+<h2 align="center" font="Dank Mono">Hello, world 👋</h2>
 <p align="center">My name is Archit Anirudhan, a passionate web developer eager to build real word application. 👨‍💻</p>
 
 <hr/>
