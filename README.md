@@ -20,6 +20,4 @@ I’m a dedicated MERN stack developer building modern, responsive, and user-fri
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/4rch1tT"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4rch1tT&stroke=f97316&background=181824&ring=f97316&fire=f97316&currStreakNum=f97316&currStreakLabel=f97316&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
